@@ -1,0 +1,183 @@
+/* Style the header */
+header {
+    background-color: #141414;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 30px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Style the navigation links on hover */
+header nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Style the Apple logo */
+header img {
+    width: 120px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Style the Products section */
+#products {
+    padding: 40px 0;
+    background-color: #f9f9f9;
+}
+
+#products h2 {
+    font-size: 28px;
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#products ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+#products ul li {
+    border: 2px solid #ddd;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    width: 300px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+#products ul li img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+#products ul li h3 {
+    font-size: 18px;
+    color: #444;
+    margin: 0;
+}
+
+#products ul li p {
+    color: #666;
+    line-height: 1.4;
+}
+
+/* Style the Product Comparison section */
+#comparison {
+    padding: 40px 0;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+#comparison h2 {
+    font-size: 28px;
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Add more styles and colors for the Product Comparison section */
+
+/* Style the Product Financing section */
+#financing {
+    padding: 40px 0;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+#financing h2 {
+    font-size: 28px;
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Add more styles and colors for the Product Financing section */
+
+/* Style the Product Accessories section */
+#accessories {
+    padding: 40px 0;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+#accessories h2 {
+    font-size: 28px;
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Add more styles and colors for the Product Accessories section */
+
+/* Style the Product Branding section */
+#branding {
+    padding: 40px 0;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+#branding h2 {
+    font-size: 28px;
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Add more styles and colors for the Product Branding section */
+
+/* Style the Footer */
+footer {
+    background-color: #141414;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer ul li {
+    display: inline;
+    margin-right: 30px;
+}
+
+footer ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Style the footer links on hover */
+footer ul li a:hover {
+    text-decoration: underline;
+}
